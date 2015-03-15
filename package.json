@@ -1,0 +1,25 @@
+{
+  "name": "ember-build-flags",
+  "version": "0.0.1",
+  "description": "A simple preprocessor to strip sections of code before they are compiled",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/cochranjd/ember-build-flags.git"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": {
+    "name": "Joshua Cochran",
+    "email": "josh.cochran@gmail.com",
+    "url": "http://github.com/cochranjd"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "broccoli-filter": "0.1.11"
+  }
+}
